@@ -8,3 +8,7 @@ for your practice
 git add .
 git commit -m my msg
 git push -u origin master
+
+msg 
+1) single word - day-1
+2) multiple word - 'for loop sikhlam'
