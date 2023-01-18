@@ -1,0 +1,10 @@
+Day-1
+Day-2
+for your practice
+
+
+# Upload to github
+
+git add .
+git commit -m my msg
+git push -u origin master
